@@ -1,0 +1,114 @@
+body{
+padding: 0;
+margin: 0;
+background-color: black;
+}
+body::before{
+    
+    content: "" ;
+    background-image:  url(./src/fundo.png );
+    display: flex;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 30%;
+    z-index: -1;
+  
+    
+}
+
+.Atendimento_Rapido{
+    color: white;
+    font-family: oxanium;
+}
+
+.texto{
+    font-family: oxanium;
+    font-size: 26px;
+    color: white;
+    margin-top: 30px;
+}
+
+.texto2{
+    font-family: oxanium;
+    font-size: 26px;
+    color: white;
+    width: 610px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+   
+ }
+
+ .texto3{
+    font-family: oxanium;
+    font-size: 26px;
+    color: white;
+   margin-top: 300px;
+ }
+
+ .texto4{
+    font-family: oxanium;
+    font-size: 26px;
+    color: white;
+    width: 1000px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+   padding: 20px;
+   
+ }
+
+ .logo{
+    width: 200px;
+    margin-right: 1600px;
+    margin-top: -80px;
+   
+ }
+
+ .imagem1{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    margin-right: 100px;
+ }
+
+ .content3 {
+    width: 100px;
+    position: fixed;
+    bottom: 0;
+    width: 10px;
+    z-index: +1;
+    margin: -1px;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    
+
+
+
+}
+
+.whatsapp_logo {
+    width: 250px;
+    margin-top: 20px;
+
+
+
+
+}
+
+.instagram_logo {
+    width: 250px;
+
+
+
+
+}
+
+.Atendimento_Rapido{
+    font-size: 20px;
+    font-family: oxanium;
+    text-align: center;
+   font-style: normal;
+}
