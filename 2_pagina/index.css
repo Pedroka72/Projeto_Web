@@ -10,8 +10,9 @@ section{
     align-items: center;
     min-height: 100vh;
     width: 100%;
-    
-    background: url('./src/16775904-fundo-de-tecnologia-abstrata-oi-tecnologia-digital-e-conceito-de-comunicacao-projeto-de-plano-de-fundo-vector-com-linha-de-circuito-ilustracaoial-vetor.jpg')no-repeat;
+    content: '';
+    position: fixed;
+    background: url('./src/fundo.png')no-repeat;
     background-position: center;
     background-size: cover;
 }
