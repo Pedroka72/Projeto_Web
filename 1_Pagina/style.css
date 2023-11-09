@@ -5,9 +5,17 @@
     font-family: Poppins;
     
     
+    
 }
 
 
+.js{
+    margin-top: 40px;
+}
+
+.branco{
+    margin-top: 100px;
+}
 .hero {
     margin-top: -223px;
     width: 100%;
@@ -22,7 +30,9 @@
 
 
 .arte{
-    box-shadow: 10px 10px 10px white;
+  
+    margin: 0;
+    padding: 0;
 }
 
 nav{
