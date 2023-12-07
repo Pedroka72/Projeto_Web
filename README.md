@@ -1,6 +1,7 @@
 
  
-Projeto_Clovis/Edgar
+Projeto Web Coding
+Professores: Edgar e Clovis
 
 Equipe:
 
